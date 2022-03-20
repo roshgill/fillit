@@ -8,4 +8,4 @@ Algorithm that fits tetromino pieces together to occupy the smallest possible sp
 
 Type 'make' to compile files
 
-Type './fillit ./tetrominofiles/tet1.txt' to run program (also can use tet2.txt or tet3.txt)
+Type './fillit ./tetrominofiles/tet1.txt' to run program (also check tet2.txt, tet3.txt files)
