@@ -7,4 +7,5 @@ Algorithm that fits tetromino pieces together to occupy the smallest possible sp
 - Utilized: Recursion, Text File Input, Programmed in C Using Visual Studio Code, LLDB Debugger, Header File, Pointer Manipulation, 2-Dimensional Array Structure, Libft Functions
 
 Type 'make' to compile files
+
 Type "./fillit ./tetrominofiles/tet1.txt" to run program (also can use tet2.txt or tet3.txt)
