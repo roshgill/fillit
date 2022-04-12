@@ -9,3 +9,15 @@ Algorithm that fits tetromino pieces together to occupy the smallest possible sp
 Type 'make' to compile files
 
 Type './fillit ./tetrominofiles/tet1.txt' to run program (also check tet2.txt, tet3.txt files)
+
+Simple Visual Example (Input):
+
+
+
+<img width="124" alt="Screen Shot 2022-04-12 at 7 10 12 PM" src="https://user-images.githubusercontent.com/99330131/163069073-7649e40a-2367-4c37-a6e7-7e0d4dc10c2d.png">
+
+
+Output:
+
+
+<img width="74" alt="Screen Shot 2022-04-12 at 7 12 08 PM" src="https://user-images.githubusercontent.com/99330131/163069218-e0536a1e-51f5-4bf2-8505-fb25df938145.png">
